@@ -21,7 +21,7 @@ const productsData = [
       "Unisex (lelaki & wanita)"
     ],
     images: [
-      "https://via.placeholder.com/800x800.png?text=Aura+Jiwa+1",
+      "https://aurea.onpay.my/media/uploads/Aura Jiwa 30ml.jpg",
       "https://via.placeholder.com/800x800.png?text=Aura+Jiwa+2",
       "https://via.placeholder.com/800x800.png?text=Aura+Jiwa+3"
     ]
@@ -259,3 +259,4 @@ document.addEventListener("DOMContentLoaded", () => {
   initMobileMenu();
   setYear();
 });
+
