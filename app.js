@@ -90,7 +90,7 @@ Sesuai digunakan bila penat, stres, cemas atau perlukan kesegaran segera.`,
       "Membantu menaikkan seri wajah"
     ],
     images: [
-      "https://via.placeholder.com/800x800.png?text=Glow+Balm+1",
+      "https://aurea.onpay.my/media/uploads/GlowBalm.jpg?text=Glow+Balm+1",
       "https://via.placeholder.com/800x800.png?text=Glow+Balm+2"
     ]
   },
@@ -259,6 +259,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initMobileMenu();
   setYear();
 });
+
 
 
 
