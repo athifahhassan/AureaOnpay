@@ -21,9 +21,9 @@ const productsData = [
       "Unisex (lelaki & wanita)"
     ],
     images: [
-      "https://aurea.onpay.my/media/uploads/Aura%20Jiwa%2030ml.jpg",
-      "https://aurea.onpay.my/media/uploads/Aura Jiwa 30ml.jpg?text=Aura+Jiwa+2",
-      "https://via.placeholder.com/800x800.png?text=Aura+Jiwa+3"
+      "https://aurea.onpay.my/media/uploads/AuraJiwa3ml.jpg",
+      "https://aurea.onpay.my/media/uploads/AuraJiwa5ml.jpg",
+      "https://aurea.onpay.my/media/uploads/Aura%20Jiwa%2030ml.jpg"
     ]
   },
   {
@@ -40,8 +40,8 @@ Haruman floral yang manis dan menenangkan, sesuai siang atau malam.`,
       "Membantu menaikkan seri & aura feminin"
     ],
     images: [
-      "https://via.placeholder.com/800x800.png?text=Gelora+Her+1",
-      "https://via.placeholder.com/800x800.png?text=Gelora+Her+2"
+      "https://aurea.onpay.my/media/uploads/GeloraForHer3ml.jpg?text=Gelora+Her+1",
+      "https://aurea.onpay.my/media/uploads/GeloraForHer5ml.jpg?text=Gelora+Her+2"
     ]
   },
   {
@@ -259,6 +259,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initMobileMenu();
   setYear();
 });
+
 
 
 
