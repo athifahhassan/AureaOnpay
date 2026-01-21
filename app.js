@@ -23,7 +23,7 @@ const productsData = [
     images: [
       "https://aurea.onpay.my/media/uploads/AuraJiwa3ml.jpg",
       "https://aurea.onpay.my/media/uploads/AuraJiwa5ml.jpg",
-      "https://aurea.onpay.my/media/uploads/Aura%20Jiwa%2030ml.jpg"
+      "https://aurea.onpay.my/media/uploads/AuraJiwa10ml.jpg"
     ]
   },
   {
@@ -41,7 +41,8 @@ Haruman floral yang manis dan menenangkan, sesuai siang atau malam.`,
     ],
     images: [
       "https://aurea.onpay.my/media/uploads/GeloraForHer3ml.jpg?text=Gelora+Her+1",
-      "https://aurea.onpay.my/media/uploads/GeloraForHer5ml.jpg?text=Gelora+Her+2"
+      "https://aurea.onpay.my/media/uploads/GeloraForHer5ml.jpg?text=Gelora+Her+2",
+      "https://aurea.onpay.my/media/uploads/GeloraForHer10ml.jpg?text=Gelora+Her+3"
     ]
   },
   {
@@ -57,9 +58,8 @@ Wangian segar tetapi berkuasa untuk aura profesional.`,
       "Menyerlahkan aura matang & profesional"
     ],
     images: [
-      "https://via.placeholder.com/800x800.png?text=Gelora+Him+1",
-      "https://via.placeholder.com/800x800.png?text=Gelora+Him+2",
-      "https://via.placeholder.com/800x800.png?text=Gelora+Him+3"
+      "https://aurea.onpay.my/media/uploads/GeloraForHim3ml.jpg?text=Gelora+Him+1",
+      "https://aurea.onpay.my/media/uploads/GeloraForHim.jpg?text=Gelora+Him+2"
     ]
   },
   {
@@ -74,8 +74,8 @@ Sesuai digunakan bila penat, stres, cemas atau perlukan kesegaran segera.`,
       "Rasa segar, tenang & stabil emosi"
     ],
     images: [
-      "https://via.placeholder.com/800x800.png?text=Aura+Booster+1",
-      "https://via.placeholder.com/800x800.png?text=Aura+Booster+2"
+      "https://aurea.onpay.my/media/uploads/AuraBooster1.jpg?text=Aura+Booster+1",
+      "https://aurea.onpay.my/media/uploads/AuraBooster2.jpg?text=Aura+Booster+2"
     ]
   },
   {
@@ -91,7 +91,7 @@ Sesuai digunakan bila penat, stres, cemas atau perlukan kesegaran segera.`,
     ],
     images: [
       "https://aurea.onpay.my/media/uploads/GlowBalm.jpg?text=Glow+Balm+1",
-      "https://via.placeholder.com/800x800.png?text=Glow+Balm+2"
+      "https://aurea.onpay.my/media/uploads/GlowBalm2.jpg?text=Glow+Balm+2"
     ]
   },
   {
@@ -106,9 +106,8 @@ Sesuai untuk ruang tamu, bilik tidur, pejabat atau ruang meditasi.`,
       "Suasana positif, damai & harmoni"
     ],
     images: [
-      "https://via.placeholder.com/800x800.png?text=Aura+Home+1",
-      "https://via.placeholder.com/800x800.png?text=Aura+Home+2",
-      "https://via.placeholder.com/800x800.png?text=Aura+Home+3"
+      "https://aurea.onpay.my/media/uploads/AuraHome.jpg?text=Aura+Home+1",
+      "https://aurea.onpay.my/media/uploads/?text=Aura+Home+2"
     ]
   }
 ];
@@ -259,6 +258,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initMobileMenu();
   setYear();
 });
+
 
 
 
