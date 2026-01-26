@@ -74,7 +74,7 @@ Sesuai digunakan bila penat, stres, cemas atau perlukan kesegaran segera.`,
       "Rasa segar, tenang & stabil emosi"
     ],
     images: [
-      "https://aurea.onpay.my/media/uploads/AuraBooster1.jpg?text=Aura+Booster+1",
+      "https://aurea.onpay.my/media/uploads/AuraBooster3.jpg?text=Aura+Booster+1",
       "https://aurea.onpay.my/media/uploads/AuraBooster2.jpg?text=Aura+Booster+2"
     ]
   },
@@ -107,7 +107,7 @@ Sesuai untuk ruang tamu, bilik tidur, pejabat atau ruang meditasi.`,
     ],
     images: [
       "https://aurea.onpay.my/media/uploads/AuraHome.jpg?text=Aura+Home+1",
-      "https://aurea.onpay.my/media/uploads/?text=Aura+Home+2"
+      "https://aurea.onpay.my/media/uploads/AuraHome2.jpg?text=Aura+Home+2"
     ]
   }
 ];
@@ -258,6 +258,7 @@ document.addEventListener("DOMContentLoaded", () => {
   initMobileMenu();
   setYear();
 });
+
 
 
 
